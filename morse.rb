@@ -35,4 +35,10 @@ MORSE = {
   '8' => '---..',
   '9' => '----.',
   '0' => '-----'
-}
+}.freeze
+
+def return_char(char)
+  return MORSE.key(char) if char
+
+  ''
+end
