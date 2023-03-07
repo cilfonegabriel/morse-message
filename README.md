@@ -1,3 +1,13 @@
+<a name="readme-top"></a>
+
+<div align="center">
+
+  <img src="./morsa (1).png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h2><b>Morse Decode</b></h2>
+
+</div>
 <!-- TABLE OF CONTENTS -->
 # 📗 Table of Contents
 - [📖 About the Project](#about-project)
