@@ -125,10 +125,12 @@ We would like to thank Microverse for starting us in this project.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- FAQ (optional) -->
 ## ❓ FAQ <a name="faq"></a>
+
 - **Can I contribute to the project?**
   - Yes. By all means feel free to clone the repository and make your changes. (Always use a new branch)
 - **Can I use this application freely?**
   - You can use the application as long as you give credit where it is needed.
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LICENSE -->
 ## 📝 License <a name="license"></a>
